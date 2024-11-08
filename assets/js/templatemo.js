@@ -1,6 +1,6 @@
 /*
 
-TemplateMo 559 Farma24 Tienda
+TemplateMo 559 MediExpress Tienda
 
 https://templatemo.com/tm-559-zay-shop
 
