@@ -1,11 +1,3 @@
-/*
-
-TemplateMo 559 MediExpress Tienda
-
-https://templatemo.com/tm-559-zay-shop
-
-*/
-
 'use strict';
 $(document).ready(function() {
 
