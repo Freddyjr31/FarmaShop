@@ -1,0 +1,56 @@
+/*
+Botones
+*/
+.btnClassPrimary{
+    background-color: #9191bd;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+
+/*
+color de texto primario
+*/
+.primaryTextColor{
+    color: #9191bd;
+}
+
+.primaryTextColor:hover{
+    color: #7171a7;
+}
+
+/*
+Catalogo de Productos
+*/
+
+.CardsProducts{
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08), 0 4px 8px rgba(0, 0, 0, 0.02);
+}
+
+.CardsProducts:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.CardsProductsImgContent{
+    border-radius: 15px 15px 0px 0px;
+}
+
+.CardsProductsImg{
+    transition: all 0.3s ease;
+}
+
+.CardsProductsImg:hover{
+    opacity: calc(0.9);
+    transform: scale(1.1);
+}
+
+/*
+Detalle del producto
+*/
+.productDetail{
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08), 0 4px 8px rgba(0, 0, 0, 0.02);
+}
